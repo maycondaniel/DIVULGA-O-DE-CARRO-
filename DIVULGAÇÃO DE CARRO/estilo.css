@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    margin: auto;
+}
+.topo {
+    background-color: #000;
+    color: #fff; 
+    border-bottom: 1px solid #d5960054;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    position: fixed;
+    top: 0px;
+}
+.fundo-topo {
+    height: 940px;
+    width: 1620px; 
+    margin-bottom: 8px;
+}
+.texto-amarelo    {
+    color:#A9A90D; 
+}
+span {
+    font-weight: bold;
+}
+p {
+ font-family: sans-serif;
+}
+.tamanho-photo {
+     height: 250px;
+     width:  450px; 
+}
+  .cor-fundo {
+    background-color: #000;
+   color: #fff;
+   margin-left: 400px;
+   margin-right: 400px; 
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
